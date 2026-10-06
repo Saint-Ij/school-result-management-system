@@ -1,0 +1,1 @@
+ALTER TABLE "term" ADD COLUMN "next_term_begins" date;
